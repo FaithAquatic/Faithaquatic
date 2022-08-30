@@ -18,7 +18,7 @@
 	}
 
 		#wrapper.fade-in:before {
-			display: none;
+			display: inside;
 		}
 
 /* Intro */
