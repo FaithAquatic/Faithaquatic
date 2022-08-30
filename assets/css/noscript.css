@@ -9,12 +9,12 @@
 /* Wrapper */
 
 	#wrapper {
-		background-color: #212931;
-		background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
-		background-size: auto,								auto,														100% auto;
+		background-color: #ffffff;
+		background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgb(3, 3, 3), rgb(221, 218, 218)), url("../../images/bg.jpg");
+		background-size: manual,								manual,														100% auto;
 		background-position: center,								center,														top center;
-		background-repeat: repeat,								no-repeat,													no-repeat;
-		background-attachment: fixed,								fixed,														fixed;
+		background-repeat: repeat,								repeat,													no-repeat;
+		background-attachment: scroll,								scroll,														scroll;
 	}
 
 		#wrapper.fade-in:before {
