@@ -10,7 +10,7 @@
 
 	#wrapper {
 		background-color: #19436b;
-		background-image: url("../../images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("/images/overlay.png"), url("./images/bg.jpg");
 		background-size: auto,								auto,														100% auto;
 		background-position: center,								center,														top center;
 		background-repeat: repeat,								no-repeat,													no-repeat;
