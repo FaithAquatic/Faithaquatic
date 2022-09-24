@@ -9,7 +9,7 @@
 /* Wrapper */
 
 	#wrapper {
-		background-color: #212931;
+		background-color: #19436b;
 		background-image: url("../../images/overlay.png"), url("../../images/bg.jpg");
 		background-size: auto,								auto,														100% auto;
 		background-position: center,								center,														top center;
@@ -34,10 +34,4 @@
 			transform: none;
 			opacity: 1;
 		}
-		body.is-preload #intro:not(.hidden) + #header + #nav {
-			-moz-transform: none;
-			-webkit-transform: none;
-			-ms-transform: none;
-			transform: none;
-			opacity: 1;
-		}
+	
